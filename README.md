@@ -9,4 +9,5 @@ The script will automatically bump up to the higher version as soon as the `patc
 You can change this behaviour by editing the script.
 
 Feel free to use the script
+
 Hope this helps you out.
